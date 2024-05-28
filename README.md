@@ -11,7 +11,7 @@ iGAIT is not meant for diagnosing children's ASD but instead is intended as a pl
 
 ## ⚡ Team
 ### Project Lead and Faculty Mentor
-- [Ziteng Wang](https://www.niu.edu/ceet/about/directory/wang-ziteng.shtml), Department of Industrial and Systems Engineering, College of Engineering & Engineering Technology, Northern Illinois University
+- [Dr. Ziteng Wang](https://www.niu.edu/ceet/about/directory/wang-ziteng.shtml), Department of Industrial and Systems Engineering, College of Engineering & Engineering Technology, Northern Illinois University
 
 ### Frontend and Backend Development
 - [John White](https://www.linkedin.com/in/john-wallace-white), Department of Computer Science, Department of Mathematics, College of Liberal Arts & Sciences, Northern Illinois University​
